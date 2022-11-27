@@ -7,5 +7,5 @@ How to run the project?
 3. Open the `http://localhost:3000/` in your browser.
 4. Project is running now, well done.
 
-Project Screenshot
+## Project Screenshot
 ![image](https://user-images.githubusercontent.com/53160804/199908701-24d866fc-75aa-41da-b44a-9ae2bc8460c4.png)
